@@ -25,5 +25,3 @@ CSS
 
 check live demo here 
 https://github.com/krishansain/javascript
-netlify live demo here
-https://parallexphotography.netlify.app/
